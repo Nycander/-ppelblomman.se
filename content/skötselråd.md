@@ -1,6 +1,7 @@
 ---
 title: "Skötselråd"
 description: "Ett detaljerat faktablad om kaninskötsel."
+url: "skoetselraad"
 menu:
   main:
     weight: 20

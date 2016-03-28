@@ -1,7 +1,7 @@
 ---
 title: "Utställningar"
 description: "Äppelblommans kaningårds utställningsresultat."
-url: "utstaellningar"
+url: "/utstaellningar"
 menu:
   main:
     weight: 30

@@ -1,10 +1,10 @@
 
-baseurl: "https://dl.dropboxusercontent.com/u/4307448/äppelblomman.se/"
+baseurl: "http://nycander.github.io/-ppelblomman.se/"
 languageCode: "sv-se"
 title: "Äppelblommans kaningång"
 theme: "aeppelblomman"
 
-uglyurls: true
+uglyurls: false
 
 blackfriday:
   fractions: false

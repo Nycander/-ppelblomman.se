@@ -1,0 +1,10 @@
+
+baseurl: "https://dl.dropboxusercontent.com/u/4307448/äppelblomman.se/"
+languageCode: "sv-se"
+title: "Äppelblommans kaningång"
+theme: "aeppelblomman"
+
+uglyurls: true
+
+blackfriday:
+  fractions: false

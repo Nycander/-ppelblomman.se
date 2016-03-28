@@ -1,0 +1,12 @@
+
+{{ partial "header.html" . }}
+
+{{ partial "navigation.html" . }}
+
+<div id="content">
+    {{ range .Data.Pages }}
+      {{ .Content }}
+    {{ end }}
+</div>
+
+{{ partial "footer.html" . }}

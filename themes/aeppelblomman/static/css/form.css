@@ -1,0 +1,35 @@
+fieldset {
+	border: 0;
+}
+
+label {
+	font-weight: bold;
+	letter-spacing: 1px;
+	font-size: 1.15em;
+	display: block;
+	width: 100%;
+	line-height: 2em;
+}
+
+input[type=text], textarea {
+	display: block;
+	margin-bottom: 1em;
+	
+	font-family: Verdana, sans-serif;
+	line-height: 1.6em;
+	font-size: 1.1em;
+	padding: 0.25em;
+	
+	border: 1px solid #ddd;
+	width: 35em;
+}
+
+input[type=text]:focus, textarea:focus {
+	border-color: #333;
+}
+
+input[type=submit] {
+	padding: 5px 30px;
+	font-weight: bold;
+	
+}

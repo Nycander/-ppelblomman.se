@@ -1,0 +1,14 @@
+{{range where .Data.Pages "Title" "Start"}}
+
+  {{ partial "header.html" . }}
+
+  {{ partial "navigation.html" . }}
+
+  <div id="content">
+    {{ .Content }}
+  </div>
+
+  {{ partial "footer.html" . }}
+
+
+{{ end }}

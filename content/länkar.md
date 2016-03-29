@@ -1,7 +1,7 @@
 ---
 title: "Länkar"
 url: "/laenkar"
-description: "Hermelinuppfödare och länkar till Stockholms läns kaninavelsförening och Sveriges kaninavelsföreningars riksförbund."
+description: "Hermelinuppfödare och länkar till Stockholms läns kaninavelsförening och Sveriges kaninavelsföreningars riksförbund"
 menu:
   main:
     weight: 100

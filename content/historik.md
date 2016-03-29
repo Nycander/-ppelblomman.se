@@ -1,6 +1,6 @@
 ---
 title: "Historik"
-description: "På äppelblommans kaningård finns kaniner av rasen hermelin i färgerna white svart och chinchillatecknat."
+description: "På äppelblommans kaningård finns kaniner av rasen hermelin i färgerna white svart och chinchillatecknat"
 menu:
   main:
     weight: 5

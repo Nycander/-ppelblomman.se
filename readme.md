@@ -16,5 +16,7 @@
 # Produktionssätta
 
 1. Spara ändringar i versionshanteringen, med en s.k. commit i GitHub desktop
-2. Verifiera ändringarna på http://nycander.github.io/-ppelblomman.se/
-3. Verifiera ändringarna på http://www.äppelblomman.se
+2. Klicka på Sync (uppe i högra hörnet)
+3. Vänta 1-2 minuter
+3. Verifiera ändringarna på http://nycander.github.io/-ppelblomman.se/
+4. Verifiera ändringarna på http://www.äppelblomman.se

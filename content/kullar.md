@@ -1,6 +1,6 @@
 ---
 title: "Kullar"
-description: "Planerade kullar."
+description: "Planerade kullar"
 menu:
   main:
     weight: 5

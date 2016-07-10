@@ -9,6 +9,8 @@ menu:
 
 # Välkommen till Äppeblommans kaningård!
 
+{{< bild url="/img/2016_Mannen_Stina_stor.jpg" thumbnail="/img/2016_Mannen_Stina_stor.jpg" title="Mannen & Stina">}}
+
 Äppelblommans kaningård föder upp kaniner i rasen hermelin i färgerna White Svart och Chinchilla.
 
 Sedan 2016 tar vi även kullar i rasen “Liten Rex”, i färgerna svart och svartvitbrokad.

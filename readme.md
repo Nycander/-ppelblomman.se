@@ -11,7 +11,7 @@
 1. Kör: hugo server
 2. Ändra under /content/ och /static/img/
 3. Titta på hugo server fönstret för att se att inget gick fel
-4. Titta på http://localhost:1313/
+4. Titta på http://localhost:1313/-ppelblomman.se
 
 # Produktionssätta
 

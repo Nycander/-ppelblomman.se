@@ -21,3 +21,6 @@
 3. Vänta 1-2 minuter
 3. Verifiera ändringarna på http://nycander.github.io/-ppelblomman.se/
 4. Verifiera ändringarna på http://www.äppelblomman.se
+
+# Bilder
+{{< bild url="/img/98.jpeg" thumbnail="/img/98_thumb.jpeg" title="Whitar bedöms">}}

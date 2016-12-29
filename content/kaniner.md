@@ -9,7 +9,7 @@ menu:
 # Mannen & Stina
 
 {{% kanin image="/img/2016_Mannen_Stina_stor.jpg" %}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+Stina är tredje generationen efter de engelska importerna Mikey och Lady som hämtades hem 2009. Hon är en trevlig och lite försiktig dam som kan sitta fint på utställningar om hon fått träna lite innan.
 
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in **reprehenderit** in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mannen kommer från Jonny och Christina Kvist i Grythyttan. 
 {{% /kanin %}}

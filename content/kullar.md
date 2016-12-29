@@ -6,9 +6,8 @@ menu:
     weight: 5
 ---
 
-# Kullar 2016
+# Kullar 2017
 
-## Liten Rex - kan flytta efter 2/5
+## Kullplanering 
 
-Trixie och Lakrits blev föräldrar till 8 ungar den 14 mars.
-4 svarta och 4 svartvitbrokade.
+De första ungarna förväntas födas i mars.

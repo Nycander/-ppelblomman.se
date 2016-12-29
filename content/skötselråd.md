@@ -64,7 +64,7 @@ Djuret har haft nedanstående matordning hittills. Följ samma rutiner åtminsto
 
 *OBS!* Plocka bort färsk mat (morot, gräs o likn) som inte ätits upp sedan föregående matning.
 
-Var mycket försiktig vid foderbyten. Vänj kaninen successivt vid nya sorters foder. Den är för närvarande van vid morötter och Edel kaninpellets. Jag köper mitt foder hos [Gnagarboden](http://www.gnagarboden.se/) i Sollentuna.
+Var mycket försiktig vid foderbyten. Vänj kaninen successivt vid nya sorters foder. Den är för närvarande van vid morötter och Edel kaninpellets. 
 
 ## Livslängd
 
@@ -159,7 +159,7 @@ Den enda godkända stamtavlan är den som är utfärdad av *Sveriges Kaninavelsf
 
 Om du vill ha ytterligare råd och tips om kaninhobbyn är du välkommen att bli medlem i Sveriges Kaninavelsföringars Riksförbund. Då får du tidningen ”Kaninuppfödaren” som utkommer med 10 nr per år. Dessutom har du möjlighet att delta på utställningar, registreringar, samt kurser som anordnas i förbundets regi. Vidare får du skriva ut stamtavlor på eventuella ungar som föds hos dig.
 
-Besök gärna [hemsidan](http://www.skaf.cybersite.nu) där det finns massor av rolig, intressant och nyttig information, bl.a. om hur man går med i föreningen.
+Besök gärna [hemsidan](http://www.skaf.info) där det finns massor av rolig, intressant och nyttig information, bl.a. om hur man går med i föreningen.
 
 ### Huvudkontor:
 

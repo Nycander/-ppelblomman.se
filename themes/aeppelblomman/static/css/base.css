@@ -89,6 +89,10 @@ a:hover {
 	margin: 55px 30px 0px 30px;
 }
 
+#footer .fb-like {
+	height: 56px;
+}
+
 #nav {
 	float: right;
 	width: 150px;

@@ -25,3 +25,7 @@
 
 # Bilder
 {{< bild url="/img/98.jpeg" thumbnail="/img/98_thumb.jpeg" title="Whitar bedöms">}}
+
+{{% kanin image="/img/FILNAMN.jpg" %}}
+Bildtext
+{{% /kanin %}}

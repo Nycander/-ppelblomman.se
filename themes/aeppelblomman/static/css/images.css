@@ -3,7 +3,7 @@ a img {
 }
 
 img {
-	padding: 15px;
+	padding: 5px 15px 15px 10px;
 }
 
 img.icon {
@@ -75,7 +75,7 @@ img[width="130"][height="112"] {
 		height: 6em;
 	}
 	.gallery_image .options {
-		position: absolute; 
+		position: absolute;
 		right: 17px;
 		top: 17px;
 	}

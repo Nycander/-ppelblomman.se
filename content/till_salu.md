@@ -12,7 +12,7 @@ menu:
 
 Fantomen, en liten rex hane, född den 14 mars 2016, kastrerades i oktober 2016 säljes för 800 kr.
 
-##Generellt
+## Generellt
 
 Använd meddelandefunktionen på vår Facebooksida om du är intresserad av att köpa någon kanin av oss. Vi säljer både ungar och vuxna.
 

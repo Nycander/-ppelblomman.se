@@ -11,6 +11,7 @@
 1. Starta cmd
 2. Skriv: hugo server, tryck enter
 3. Ändra under /content/ och /static/img/
+  3.1. För hjälp med formattering: https://guides.github.com/features/mastering-markdown/
 4. Titta på hugo server fönstret för att se att inget gick fel
 5. Titta på http://localhost:1313/-ppelblomman.se
 

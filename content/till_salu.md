@@ -6,13 +6,18 @@ menu:
     weight: 10
 ---
 
-# Till salu
+## Till salu
 
-## Aktuellt just nu:
+### Aktuellt just nu:
+
+{{% kanin image="/img/2017_Fantomen.jpg" %}}
 
 Fantomen, en liten rex hane, född den 14 mars 2016, kastrerades i oktober 2016 säljes för 800 kr.
 
-## Generellt
+Tam och trevlig kille.
+{{% /kanin %}}
+
+### Generellt
 
 Använd meddelandefunktionen på vår Facebooksida om du är intresserad av att köpa någon kanin av oss. Vi säljer både ungar och vuxna.
 

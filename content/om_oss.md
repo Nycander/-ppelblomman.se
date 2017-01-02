@@ -23,7 +23,10 @@ Jag gick med i Svenska Kaninavelsföreningen 1996 i samband med Stampans inflytt
 
 Sommaren 2006 bytte jag färg till White svart och 2008 kompletterade jag med Chinchillatecknade hermeliner.
 
+{{% kanin image="/img/Äppelblommans KG.jpg" %}}
+
 2008 registrerade jag kaningårdsnamnet hos Sveriges Kaninavelsföreningars Riksförbund.
+{{% /kanin %}}
 
 Numera delar jag hobbyn och kaningården med dottern, Linda.
 

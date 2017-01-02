@@ -15,7 +15,7 @@ Sedan 2016 tar vi även kullar i rasen “Liten Rex”, i färgerna svart och sv
 
 Vi har uppfödning i mindre skala. Vi sparar och ställer ut en hel del djur, men säljer också ungar och vuxna till avel, utställning och kel.
 
-På denna hemsida finns information om hur det hela började under historik, vilka djur vi har, vilka kullar som föds, hur det gått på utställningar och vad vi har till salu. Det finns också skötselråd framförallt riktade till våra kaninköpare. Sist men inte minst finns en del länkar till andra hemsidor.
+På denna hemsida finns information om hur det hela började under "om oss", vilka djur vi har, vilka kullar som föds, hur det gått på utställningar och vad vi har till salu. Det finns också skötselråd framförallt riktade till våra kaninköpare. Sist men inte minst finns en del länkar till andra hemsidor.
 
 Vi har också en publik och aktiv [Facebooksida](https://www.facebook.com/pages/%C3%84ppelblommans-kaning%C3%A5rd/239997602822650). “Gilla” den gärna, så får du regelbundet information om vad som händer på gården och med dess invånare.
 

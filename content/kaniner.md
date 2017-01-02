@@ -79,7 +79,7 @@ Mor: Äppelblommans Mella
 Far: Obelix (hermelin fuchs, vit rödögd)
 {{% /kanin %}}
 
-#### _______________________________________
+---
 
 ### Liten Rex
 

@@ -64,7 +64,7 @@ Djuret har haft nedanstående matordning hittills. Följ samma rutiner åtminsto
 
 *OBS!* Plocka bort färsk mat (morot, gräs o likn) som inte ätits upp sedan föregående matning.
 
-Var mycket försiktig vid foderbyten. Vänj kaninen successivt vid nya sorters foder. Den är för närvarande van vid morötter och Edel kaninpellets.
+Var mycket försiktig vid foderbyten. Vänj kaninen successivt vid nya sorters foder. Den är för närvarande van vid morötter och Svenska Foders Kanin- och marsvinspellets.
 
 ### Livslängd
 

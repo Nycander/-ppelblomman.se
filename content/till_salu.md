@@ -10,12 +10,7 @@ menu:
 
 ### Aktuellt just nu:
 
-{{% kanin image="/img/2017_Fantomen.jpg" %}}
-
-Fantomen, en liten rex hane, född den 14 mars 2016, kastrerades i oktober 2016 säljes för 800 kr.
-
-Tam och trevlig kille.
-{{% /kanin %}}
+Vi kommer att behålla en unge från Fabulous kull och en unge från Coxies kull. Övriga ungar kommer att vara till salu och blir leveransklara i månadsskiftet april/maj. Välkommen med intresseanmälningar!
 
 ### Generellt
 

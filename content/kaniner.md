@@ -101,7 +101,7 @@ Liten Rex, svartbrokad hona, född 2015 på Tranbärets kaningård. Ej godkänd 
 
 {{% kanin image="/img/2016_Fabulous.jpg" %}}
 
-Liten Rex, dalmatiner svart hona, född 2016.
+Liten Rex, dalmatiner svart hona, född 2016. Registrerad på 93,5 poäng.
 
 Mor: Trixie
 

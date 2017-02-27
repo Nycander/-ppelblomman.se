@@ -70,7 +70,7 @@ Hermelin fuchs, vit rödögd hane, född 2011 hos Katrin Swärd i Gagnef. Regist
 
 #### Beauty of Bath "Beauty":
 
-{{% kanin image="/img/2016_Beauty.jpg" %}}
+{{% kanin image="/img/2017_Beauty.jpg" %}}
 
 Hermelin, vit rödögd hane, född 2016.
 
@@ -99,7 +99,7 @@ Liten Rex, svartbrokad hona, född 2015 på Tranbärets kaningård. Ej godkänd 
 
 #### Fabulous:
 
-{{% kanin image="/img/2016_Fabulous.jpg" %}}
+{{% kanin image="/img/2017_Fabulous.jpg" %}}
 
 Liten Rex, dalmatiner svart hona, född 2016. Registrerad på 93,5 poäng.
 

@@ -8,10 +8,13 @@ menu:
 
 ## Kullar 2017
 
-### Kullplanering
+Den 13 mars blev Fabulous och Tranbärets Sune föräldrar till:
+- 2 hanar i färgen castor
+- 2 honor i färgen dalmatiner - castor
 
-De första ungarna förväntas födas i mars.
+Den 13 mars blev också Coxie och Snöbollen föräldrar till:
+- 1 hane i färgen White svart
 
-Fabulous är dräktig. Blivande pappa är en castor-hane från Tranbärets. Ungarna förväntas födas ca den 14 mars.
+Den 18 april fick Coxie och Snöbollen ytterligare en kull.
 
-Coxie är dräktig med Snöbollens ungar och blir således fuchsbärare. Förväntad nedkomst ca 14 mars.
+Den 18 april blev också Alice och Mannen föräldrar till två ungar.

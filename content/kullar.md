@@ -15,6 +15,6 @@ Den 13 mars blev Fabulous och Tranbärets Sune föräldrar till:
 Den 13 mars blev också Coxie och Snöbollen föräldrar till:
 - 1 hane i färgen White svart
 
-Den 18 april fick Coxie och Snöbollen ytterligare en kull.
+Den 18 april fick Coxie och Snöbollen ytterligare en kull med fem ungar.
 
 Den 18 april blev också Alice och Mannen föräldrar till två ungar.

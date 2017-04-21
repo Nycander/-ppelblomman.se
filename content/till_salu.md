@@ -33,11 +33,9 @@ Ungar kan tingas och ibland säljer vi avelsdjur som behöver flytta pga att de 
 
 Ungar och ungdjur kostar 500 kr.
 
-Unga vuxna avelsdjur kostar 400 kr.
+Priset på vuxna djur varierar beroende på ålder.
 
-Äldre vuxna (från ca 3 år och uppåt) kostar 300 kr.
-
-Kastrerade hanar kostar minst 700 kr (mera om det är en relativt ung hane).
+Kastrerade hanar kostar från 800 kr.
 
 Vi säljer kaninerna med stamtavla, alternativt härstamningsbevis för kelkaniner. Vi skickar med lite övergångsfoder och ett informationsblad om skötsel.
 

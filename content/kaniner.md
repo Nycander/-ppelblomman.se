@@ -65,7 +65,7 @@ Hermelin, white svart hane, född 2015 hos Jonny & Christina Kvist i Grythyttan.
 
 {{% kanin image="/img/2014_Snöbollen.jpg" %}}
 
-Hermelin fuchs, vit rödögd hane, född 2011 hos Katrin Swärd i Gagnef. Registrerad på 95 poäng. Svensk Champion!
+Hermelin fuchs, vit rödögd hane, född 2011 hos Katrin Swärd i Gagnef. Registrerad på 95 poäng. Svensk Champion! Kastrerad 2017.
 {{% /kanin %}}
 
 #### Beauty of Bath "Beauty":

@@ -97,13 +97,11 @@ Liten Rex, svart hane, född 2012 på Norrgårdens kaningård, kastrerad 2016. R
 Liten Rex, svartbrokad hona, född 2015 på Tranbärets kaningård. Ej godkänd teckning enligt standard, men har godkänd stamtavla.
 {{% /kanin %}}
 
-#### Fabulous:
+#### Priscilla:
 
-{{% kanin image="/img/2017_Fabulous.jpg" %}}
+Liten Rex, dalmatiner castor hona, född 2017.
 
-Liten Rex, dalmatiner svart hona, född 2016. Registrerad på 93,5 poäng.
+Mor: Äppelblommans Fabulous
 
-Mor: Trixie
-
-Far: Lakrits
+Far: Tranbärets Kitsune
 {{% /kanin %}}

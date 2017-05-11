@@ -16,14 +16,10 @@ White svart hane född 13 mars.
 Se bild publicerad på facebooksidan den 20 april.
 Kan flytta efter 4 maj. Pris: 500 kr
 
+{{% kanin image="/img/2017_CoxiesUnge.jpg" %}}
+
 Nya kullar föddes 18 april. Leveransklara 6 juni.
 
-#### Liten Rex
-
-{{% kanin image="/img/2017-04_FabulousUngar.jpg" %}}
-
-En castorfärgad hane och en dalmatinertecknad hona är till salu.
-Kan flytta efter 4 maj. Pris: 500 kr
 
 ### Generellt
 

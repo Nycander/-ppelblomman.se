@@ -104,4 +104,3 @@ Liten Rex, dalmatiner castor hona, född 2017.
 Mor: Äppelblommans Fabulous
 
 Far: Tranbärets Kitsune
-{{% /kanin %}}

@@ -13,8 +13,7 @@ menu:
 #### Hermeliner
 
 White svart hane född 13 mars.  
-Se bild publicerad på facebooksidan den 20 april.
-Kan flytta efter 4 maj. Pris: 500 kr
+Pris: 500 kr
 
 {{% kanin image="/img/2017_CoxiesUnge.jpg" %}}
 

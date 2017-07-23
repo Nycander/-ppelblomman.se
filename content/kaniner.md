@@ -10,7 +10,7 @@ menu:
 
 ### Hermeliner
 
-#### Alice:
+#### Äppelblommans Alice:
 
 {{% kanin image="/img/2014_Alice.jpg" %}}
 
@@ -21,7 +21,7 @@ Mor: Äppelblommans Frida
 Far: Äppelblommans Sam
 {{% /kanin %}}
 
-#### Stina:
+#### Äppelblommans Stina:
 
 {{% kanin image="/img/2016_Stina.jpg" %}}
 
@@ -32,18 +32,7 @@ Mor: Äppelblommans Frida
 Far: Äppelblommans Sam
 {{% /kanin %}}
 
-#### Sam:
-
-{{% kanin image="/img/2014_Sam.jpg" %}}
-
-Hermelin, chinchillatecknad hane, född 2010.
-
-Mor: Äppelblommans Gullan
-
-Far: Äppelblommans Plupp
-{{% /kanin %}}
-
-#### Cox Pomona "Coxie":
+#### Äppelblommans Cox Pomona "Coxie":
 
 {{% kanin image="/img/2016_CoxPomona.jpg" %}}
 
@@ -52,6 +41,17 @@ Hermelin, white svart hona, född 2015. Registrerad på 92,5 poäng. Duktig avel
 Mor: Äppelblommans Jamba
 
 Far: Äppelblommans Must
+{{% /kanin %}}
+
+#### Äppelblommans Diwa:
+
+{{% kanin image="/img/2017_Diwa.jpg" %}}
+
+Hermelin, white svart hona, född 2017. Vår "projektkanin" som ska ges oss nya "Snöbollar".
+
+Mor: Äppelblommans Cox Pomona
+
+Far: Snöbollen
 {{% /kanin %}}
 
 #### Mannen:
@@ -94,13 +94,16 @@ Liten Rex, svart hane, född 2012 på Norrgårdens kaningård, kastrerad 2016. R
 
 {{% kanin image="/img/2016_Trixie.jpg" %}}
 
-Liten Rex, svartbrokad hona, född 2015 på Tranbärets kaningård. Ej godkänd teckning enligt standard, men har godkänd stamtavla.
+Liten Rex, svartbrokad hona, född 2015 på Tranbärets kaningård. Ej godkänd teckning enligt standard, men har godkänd stamtavla. Kastrerad 2017.
 {{% /kanin %}}
 
 #### Priscilla:
+
+{{% kanin image="/img/2017_Priscila.jpg" %}}
 
 Liten Rex, dalmatiner castor hona, född 2017.
 
 Mor: Äppelblommans Fabulous
 
 Far: Tranbärets Kitsune
+{{% /kanin %}}

@@ -10,14 +10,9 @@ menu:
 
 ### Aktuellt just nu:
 
-#### Hermeliner
+Alla vårens ungar är sålda.
 
-White svart hane född 13 mars.  
-Pris: 500 kr
-
-{{% kanin image="/img/2017_CoxiesUnge.jpg" %}}
-
-Nya kullar föddes 18 april. Leveransklara 6 juni.
+Stina och Alice är förhoppningsvis dräktiga och förväntas föda ca 20 augusti.
 
 
 ### Generellt

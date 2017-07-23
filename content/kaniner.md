@@ -99,7 +99,7 @@ Liten Rex, svartbrokad hona, född 2015 på Tranbärets kaningård. Ej godkänd 
 
 #### Priscilla:
 
-{{% kanin image="/img/2017_Priscila.jpg" %}}
+{{% kanin image="/img/2017_Priscilla.jpg" %}}
 
 Liten Rex, dalmatiner castor hona, född 2017.
 

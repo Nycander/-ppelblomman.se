@@ -9,6 +9,5 @@ menu:
 
 # Länkar
 
-* [Gnagarboden](http://www.gnagarboden.se/)
 * [Stockholms läns Kaninavelsförening](http://www.stockholmskaf.se/)
 * [Sveriges Kaninavelsföreningars Riksförbund](http://www.skaf.info/)

@@ -30,4 +30,4 @@ Sommaren 2006 bytte jag färg till White svart och 2008 kompletterade jag med Ch
 
 Numera delar jag hobbyn och kaningården med dottern, Linda.
 
-Förutom hermeliner har vi också ett par kaniner i rasen “Liten Rex”.
+Förutom hermeliner har vi också ett par gårdskaniner i rasen “Liten Rex”.

@@ -10,9 +10,8 @@ menu:
 
 ### Aktuellt just nu:
 
-Alla vårens ungar är sålda.
-
-Stina och Alice är förhoppningsvis dräktiga och förväntas föda ca 20 augusti.
+Vi har nu 5 ungar i färgen White Svart till salu. De är leveransklara den 26 december. Föräldrar är Coxie och Mannen.
+Bilder finns på Facebooksidan, t.ex. 30 november.
 
 
 ### Generellt

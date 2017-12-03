@@ -11,9 +11,7 @@ menu:
 
 Äppelblommans kaningård föder upp kaniner i rasen hermelin i färgerna White Svart och Chinchilla.
 
-Sedan 2016 tar vi även kullar i rasen “Liten Rex”, i färgerna svart och svartvitbrokad.
-
-Vi har uppfödning i mindre skala. Vi sparar och ställer ut en hel del djur, men säljer också ungar och vuxna till avel, utställning och kel.
+Vi har uppfödning i mindre skala. Vi sparar och ställer ut en hel del djur, men säljer också ungar och vuxna till avel, utställning och sällskap.
 
 På denna hemsida finns information om hur det hela började under "om oss", vilka djur vi har, vilka kullar som föds, hur det gått på utställningar och vad vi har till salu. Det finns också skötselråd framförallt riktade till våra kaninköpare. Sist men inte minst finns en del länkar till andra hemsidor.
 

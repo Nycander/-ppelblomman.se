@@ -10,5 +10,5 @@ menu:
 
 ##### Väntas i månadsskiftet januari/februari
 
-* Alice o Mannen
+* Alice och Mannen
 * Diwa och Beauty

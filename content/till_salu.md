@@ -10,8 +10,6 @@ menu:
 
 ### Aktuellt just nu:
 
-Vi har nu 5 ungar i färgen White Svart till salu. De är leveransklara den 26 december. Föräldrar är Coxie och Mannen.
-Bilder finns på Facebooksidan, t.ex. 30 november.
 
 
 ### Generellt
@@ -20,13 +18,13 @@ Använd meddelandefunktionen på vår Facebooksida om du är intresserad av att 
 
 Ungar kan tingas och ibland säljer vi avelsdjur som behöver flytta pga att de tagits ur avel och behöver lämna plats till kommande generationer.
 
-Ungar och ungdjur kostar 500 kr.
+Ungar och ungdjur kostar 600 kr.
 
 Priset på vuxna djur varierar beroende på ålder.
 
 Kastrerade hanar kostar från 800 kr.
 
-Vi säljer kaninerna med stamtavla, alternativt härstamningsbevis för kelkaniner. Vi skickar med lite övergångsfoder och ett informationsblad om skötsel.
+Vi säljer kaninerna med stamtavla, alternativt härstamningsbevis för kelkaniner. Vi skickar med övergångsfoder och ett informationsblad om skötsel.
 
 De är bettfelskontrollerade och klorna är klippta.
 

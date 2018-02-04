@@ -8,7 +8,7 @@ menu:
 
 ## Kullar 2018
 
-##### Väntas i månadsskiftet januari/februari
+##### Diwa & Beauty - 2 februari 2018
 
-* Alice och Mannen
-* Diwa och Beauty
+Diwa födde årets första kull natten mot den 2 februari.  
+7 ungar födda! 5 mörka och 2 vita rödögda.

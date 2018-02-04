@@ -43,7 +43,7 @@ Mor: Äppelblommans Cox Pomona
 Far: Snöbollen
 {{% /kanin %}}
 
-#### Mannen:
+#### Mannen, även kallad "Hubbe":
 
 {{% kanin image="/img/2016_Mannen.jpg" %}}
 

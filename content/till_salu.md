@@ -9,8 +9,15 @@ menu:
 ## Till salu
 
 ### Aktuellt just nu:
+En kaninunge, chinchillatecknad hane med stamtavla, född 21 mars, leveransklar mitten av maj - 600 kr (Bilder finns i Facebookflödet)
 
+{{% kanin image="/img/2017_Diwa.jpg" %}}
 
+DIWA: En vuxen hona född 2017, säljes med stamtavla, dock ej godkänd för utställning. Söker nu ett hem där hon får leva som sällskapsdam till människor och/eller kaniner - 400 kr
+
+{{% kanin image="/img/Jamba.jpg" %}}
+
+JAMBA: En vuxen hona född 2013, säljes med stamtavla. Söker ett "forever"-hem där hon får leva pensionärsliv som sällskapsdam. Tam och kelig. Har bott i hos en familj i lägenhet i tre år. - 300 kr
 
 ### Generellt
 

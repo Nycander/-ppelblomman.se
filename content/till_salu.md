@@ -15,10 +15,6 @@ En kaninunge, chinchillatecknad hane med stamtavla, född 21 mars, leveransklar 
 
 DIWA: En vuxen hona född 2017, säljes med stamtavla, dock ej godkänd för utställning. Söker nu ett hem där hon får leva som sällskapsdam till människor och/eller kaniner - 400 kr
 
-{{% kanin image="/img/Jamba.jpg" %}}
-
-JAMBA: En vuxen hona född 2013, säljes med stamtavla. Söker ett "forever"-hem där hon får leva pensionärsliv som sällskapsdam. Tam och kelig. Har bott i hos en familj i lägenhet i tre år. - 300 kr
-
 ### Generellt
 
 Använd meddelandefunktionen på vår Facebooksida om du är intresserad av att köpa någon kanin av oss. Vi säljer både ungar och vuxna.

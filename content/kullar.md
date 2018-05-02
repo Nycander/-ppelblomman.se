@@ -13,13 +13,13 @@ menu:
 {{% kanin image="/img/2018_Diwas_kull.jpg" %}}
 
 Diwa födde årets första kull natten mot den 2 februari.   
-7 ungar födda! En vit rödögd fuchspälsad hane sparad. Övriga 6 har hittat nya hem.
+En rekordstor kull på 7 ungar! En vit rödögd fuchspälsad hane sparad. Övriga 6 har hittat nya hem.
 
 ##### Coxie & Charlie - 21 mars 2018
 
 {{% kanin image="/img/2018_Coxies_kull_honor.jpg" %}}  {{% kanin image="/img/2018_Coxies_kull_hanar.jpg" %}}
 
-Årets andra kull på 5 ungar föddes den 21 mars, 3 honor & 2 hanar . Alla ungar är till salu (4 tingade hittills, 23/4)
+Årets andra kull föddes den 21 mars, 3 honor & 2 hanar . Alla ungar är till salu (4 tingade fram tills nu, 2 maj)
 
 ##### Alice & Charlie - 7 april 2018
 

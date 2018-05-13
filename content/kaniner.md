@@ -43,7 +43,15 @@ Mor: Äppelblommans Cox Pomona
 Far: Snöbollen
 {{% /kanin %}}
 
-#### Mannen, även kallad "Hubbe":
+#### Charlie:
+
+{{% kanin image="/img/2018_Charlie.jpg" %}}
+
+Hermelin, chinchillatecknad hane, född 2017 hos Nathalie Ulriksen. Ställd på 94 poäng, ännu ej registrerad.
+
+{{% /kanin %}}
+
+#### Mannen, även kallad "Hubbe"
 
 {{% kanin image="/img/2016_Mannen.jpg" %}}
 

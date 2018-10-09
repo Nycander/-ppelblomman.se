@@ -19,8 +19,12 @@ En rekordstor kull på 7 ungar! En vit rödögd fuchspälsad hane sparad. Övrig
 
 {{% kanin image="/img/2018_Coxies_kull_honor.jpg" %}}  {{% kanin image="/img/2018_Coxies_kull_hanar.jpg" %}}
 
-Årets andra kull föddes den 21 mars, 3 honor & 2 hanar . Alla ungar är till salu (4 tingade fram tills nu, 2 maj)
+Årets andra kull föddes den 21 mars, 3 honor & 2 hanar . Alla ungar har hittat nya hem.
 
 ##### Alice & Charlie - 7 april 2018
 
-En liten kille som kommer att stanna hos oss!
+En liten kille som kommer att stanna hos oss! Toko <3
+
+##### Coxie & Hubbe - 14 augusti 2018
+
+En hane och två honor. En hona har flyttat och den andra stannar hos oss. En hane fortfarande till salu.

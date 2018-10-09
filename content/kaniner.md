@@ -32,16 +32,6 @@ Mor: Äppelblommans Jamba
 Far: Äppelblommans Must
 {{% /kanin %}}
 
-#### Äppelblommans Diwa:
-
-{{% kanin image="/img/2017_Diwa.jpg" %}}
-
-Hermelin, white svart hona, född 2017. Vår "projektkanin" som ska ge oss nya "Snöbollar".
-
-Mor: Äppelblommans Cox Pomona
-
-Far: Snöbollen
-{{% /kanin %}}
 
 #### Charlie:
 

@@ -9,11 +9,19 @@ menu:
 ## Till salu
 
 ### Aktuellt just nu:
-En kaninunge, chinchillatecknad hane med stamtavla, född 21 mars, leveransklar mitten av maj - 600 kr (Bilder finns i Facebookflödet)
 
-{{% kanin image="/img/2017_Diwa.jpg" %}}
+{{% kanin image="/img/2018_Kille_841.jpg" %}}
 
-DIWA: En vuxen hona född 2017, säljes med stamtavla, dock ej godkänd för utställning. Söker nu ett hem där hon får leva som sällskapsdam till människor och/eller kaniner - 400 kr
+Hane född 2018-08-14. Son till Coxie och Hubbe, säljes med stamtavla. Sällskaplig och trevlig. 500 kr
+
+{{% kanin image="/img/2018_Sessan.jpg" %}}
+
+Äppelblommans Pricesse Noble "Sessan" är till salu. Hon är född 2018-12-12 och kastrerad sedan september 2018. En personlig och framåt kanin som är nyfiken, sällskaplig och aktiv. 1200 kr
+
+{{% kanin image="/img/2018_Charlie.jpg" %}}
+
+Vi söker nu nytt hem till Charlie eftersom vi kommer att behålla en son till honom. Han är en fin utställnings- och avelshane. Registrerad på 95 poäng. 500 kr
+
 
 ### Generellt
 

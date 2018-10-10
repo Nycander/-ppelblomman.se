@@ -9,7 +9,7 @@ menu:
 
 # Välkommen till Äppeblommans kaningård!
 
-Äppelblommans kaningård föder upp kaniner i rasen hermelin i färgerna White Svart och Chinchilla.
+Äppelblommans kaningård föder upp kaniner i rasen hermelin, främst i färgerna White Svart och Chinchilla.
 
 Vi har uppfödning i mindre skala. Vi sparar och ställer ut en hel del djur, men säljer också ungar och vuxna till avel, utställning och sällskap.
 

@@ -23,8 +23,12 @@ En rekordstor kull på 7 ungar! En vit rödögd fuchspälsad hane sparad. Övrig
 
 ##### Alice & Charlie - 7 april 2018
 
-En liten kille som kommer att stanna hos oss! Toko <3
+{{% kanin image="/img/2018_Alice_Toko.jpg" %}}  
+
+En liten chinchillatecknad kille som kommer att stanna hos oss! Toko <3
 
 ##### Coxie & Hubbe - 14 augusti 2018
 
-En hane och två honor. En hona har flyttat och den andra stannar hos oss. En hane fortfarande till salu.
+{{% kanin image="/img/2018_Coxies_whitekull.jpg" %}}
+
+En hane och två honor. En hona har flyttat och den andra stannar hos oss. En hane fortfarande till salu. (10 oktober 2018)

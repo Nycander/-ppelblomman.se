@@ -12,15 +12,16 @@ menu:
 
 {{% kanin image="/img/2018_Kille_841.jpg" %}}
 
-Hane född 2018-08-14. Son till Coxie och Hubbe, säljes med stamtavla. Sällskaplig och trevlig. 500 kr
+Hane född 2018-08-14. Son till Coxie(registrerad på 92,5 p) och Hubbe (registrerad på 95 p), säljes med stamtavla. Sällskaplig och trevlig. 500 kr
 
 {{% kanin image="/img/2018_Sessan.jpg" %}}
 
-Äppelblommans Pricesse Noble "Sessan" är till salu. Hon är född 2018-12-12 och kastrerad sedan september 2018. En personlig och framåt kanin som är nyfiken, sällskaplig och aktiv. 1200 kr
+Äppelblommans Princesse Noble "Sessan" är till salu. Hon är född 2017-12-12 och kastrerad sedan september 2018. En personlig och framåt kanin som är nyfiken, sällskaplig och aktiv. 1200 kr
 
 {{% kanin image="/img/2018_Charlie.jpg" %}}
 
 Vi söker nu nytt hem till Charlie eftersom vi kommer att behålla en son till honom. Han är en fin utställnings- och avelshane. Registrerad på 95 poäng. 500 kr
+
 
 
 ### Generellt

@@ -10,10 +10,6 @@ menu:
 
 ### Aktuellt just nu:
 
-{{% kanin image="/img/2018_Kille_841.jpg" %}}
-
-Hane född 2018-08-14. Son till Coxie(registrerad på 92,5 p) och Hubbe (registrerad på 95 p), säljes med stamtavla. Sällskaplig och trevlig. 500 kr
-
 {{% kanin image="/img/2018_Sessan.jpg" %}}
 
 Äppelblommans Princesse Noble "Sessan" är till salu. Hon är född 2017-12-12 och kastrerad sedan september 2018. En personlig och framåt kanin som är nyfiken, sällskaplig och aktiv. 1200 kr

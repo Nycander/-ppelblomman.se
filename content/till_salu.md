@@ -10,10 +10,6 @@ menu:
 
 ### Aktuellt just nu:
 
-{{% kanin image="/img/2018_Sessan.jpg" %}}
-
-Äppelblommans Princesse Noble "Sessan" är till salu. Hon är född 2017-12-12 och kastrerad sedan september 2018. En personlig och framåt kanin som är nyfiken, sällskaplig och aktiv. 1200 kr
-
 {{% kanin image="/img/2018_Charlie.jpg" %}}
 
 Vi söker nu nytt hem till Charlie eftersom vi kommer att behålla en son till honom. Han är en fin utställnings- och avelshane. Registrerad på 95 poäng. 500 kr

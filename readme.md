@@ -29,3 +29,4 @@
 {{% kanin image="/img/FILNAMN.jpg" %}}
 Bildtext
 {{% /kanin %}}
+

@@ -6,6 +6,16 @@ menu:
     weight: 5
 ---
 
+## Kullar 2019
+
+#### Coxie & Toko
+
+{{% kanin image="/img/2019-02_Coxie-Toko-kullen.jpg" %}}
+
+Den 11 februari födde Coxie sex stycken ungar, bestående av två honor i White svart (911 och 912), två chinchillafärgade honor (915 och 916), samt
+två chinchillafärgade hanar (913 och 914). En av de chinchillafärgade honorna (915) stannar hos oss (Swayzie), alla övriga har hittat nya hem.
+
+
 ## Kullar 2018
 
 ##### Diwa & Beauty - 2 februari 2018

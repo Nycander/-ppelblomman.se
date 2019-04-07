@@ -10,10 +10,9 @@ menu:
 
 ### Aktuellt just nu:
 
-{{% kanin image="/img/2018_Charlie.jpg" %}}
+Vi har inga kaniner till salu under våren 2019. Vi vill i stället rekommendera "Kaninhjälpen" eller "Smådjurschansen" för er som söker sällskapskaniner. Där finns många fina kaniner som söker nya för-evigt-hem. Länkar till dem finns under fliken "länkar".
 
-Vi söker nu nytt hem till Charlie eftersom vi kommer att behålla en son till honom. Han är en fin utställnings- och avelshane. Registrerad på 95 poäng. 500 kr
-
+Nya kullar kommer eventuellt under hösten 2019.
 
 
 ### Generellt

@@ -32,6 +32,17 @@ Mor: Äppelblommans Jamba
 Far: Äppelblommans Must
 {{% /kanin %}}
 
+#### Äppelblommans Princesse Noble "Sessan"
+
+{{% kanin image="/img/2018_Sessan.jpg" %}}
+
+Hermelin, vit rödögd hona, född 2017. För stor för utställning och avel. Kastrerad 2018.
+
+Mor: Äppelblommans Diwa
+
+Far: Äppelblommans Beauty of Bath
+{{% /kanin %}}
+
 #### Äppelblommans Swayzie
 
 Hermelin, chinchillafärgad hona, född 2019.
@@ -72,7 +83,7 @@ Mor: Äppelblommans Mella
 
 Far: Obelix (hermelin fuchs, vit rödögd)
 
-#### Äppelblommans Tom Put:
+#### Äppelblommans Tom Put "Putte":
 
 Hermelin fuchs, vit rödögd hane, född 2018. Registrerad på 95 poäng. Svensk Champion!
 

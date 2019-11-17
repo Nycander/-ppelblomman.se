@@ -10,17 +10,6 @@ menu:
 
 ### Hermeliner
 
-#### Äppelblommans Alice:
-
-{{% kanin image="/img/2014_Alice.jpg" %}}
-
-Hermelin, chinchillafärgad hona, född 2013. Registrerad på 93,5 poäng. Fått 95,5 poäng som bäst. Tredje generationen efter de engelska importerna Mikey och Lady, som hämtades hem 2009.
-
-Mor: Äppelblommans Frida
-
-Far: Äppelblommans Sam
-{{% /kanin %}}
-
 #### Äppelblommans Cox Pomona "Coxie":
 
 {{% kanin image="/img/2016_CoxPomona.jpg" %}}
@@ -34,7 +23,7 @@ Far: Äppelblommans Must
 
 #### Äppelblommans Princesse Noble "Sessan"
 
-{{% kanin image="/img/2018_Sessan.jpg" %}}
+{{% kanin image="/img/20190512_Sessan.jpg" %}}
 
 Hermelin, vit rödögd hona, född 2017. För stor för utställning och avel. Kastrerad 2018.
 
@@ -45,20 +34,36 @@ Far: Äppelblommans Beauty of Bath
 
 #### Äppelblommans Swayzie
 
+{{% kanin image="/img/2019_Swayzie.jpg" %}}
+
 Hermelin, chinchillafärgad hona, född 2019.
 
 Mor: Äppelblommans Cox Pomona  
 
 Far: Äppelblommans Toko  
+{{% /kanin %}}
+
+#### Äppelblommans Trulsa
+
+{{% kanin image="/img/20191102_Trulsa.jpg" %}}
+
+Hermelin, White svart hona, född 2019
+
+Mor: Äppelblommans Cox Pomona  
+
+Far: Hubbe  
+{{% /kanin %}}
 
 #### Äppelblommans Toko  
+
+{{% kanin image="/img/2019_Toko_höst.jpg" %}}
 
 Hermelin, chinchillafärgad hane, född 2018. Registrerad på 95 poäng.
 
 Mor: Äppelblommans Alice  
 
 Far: Charlie  
-
+{{% /kanin %}}
 #### Hubbe, tidigare kallad "Mannen"
 
 {{% kanin image="/img/2016_Mannen.jpg" %}}
@@ -85,12 +90,14 @@ Far: Obelix (hermelin fuchs, vit rödögd)
 
 #### Äppelblommans Tom Put "Putte":
 
+{{% kanin image="/img/2017_Beauty.jpg" %}}
+
 Hermelin fuchs, vit rödögd hane, född 2018. Registrerad på 95 poäng. Svensk Champion!
 
 Mor: Äppelblommans Diwa
 
 Far: Äppelblommans "Beauty of Bath"
-
+{{% /kanin %}}
 ---
 
 ### Liten Rex - våra "gårdskaniner"

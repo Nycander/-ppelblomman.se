@@ -41,7 +41,6 @@ Hermelin, chinchillafärgad hona, född 2019.
 Mor: Äppelblommans Cox Pomona  
 
 Far: Äppelblommans Toko  
-{{% /kanin %}}
 
 #### Äppelblommans Trulsa
 

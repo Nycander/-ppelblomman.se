@@ -90,7 +90,7 @@ Far: Obelix (hermelin fuchs, vit rödögd)
 
 #### Äppelblommans Tom Put "Putte":
 
-{{% kanin image="/img/2017_Beauty.jpg" %}}
+{{% kanin image="/img/2019_Putte.jpg" %}}
 
 Hermelin fuchs, vit rödögd hane, född 2018. Registrerad på 95 poäng. Svensk Champion!
 

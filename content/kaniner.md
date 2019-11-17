@@ -34,8 +34,6 @@ Far: Äppelblommans Beauty of Bath
 
 #### Äppelblommans Swayzie
 
-{{% kanin image="/img/2019_Swayzie.jpg" %}}
-
 Hermelin, chinchillafärgad hona, född 2019.
 
 Mor: Äppelblommans Cox Pomona  

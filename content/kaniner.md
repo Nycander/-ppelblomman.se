@@ -23,7 +23,7 @@ Far: Äppelblommans Must
 
 #### Äppelblommans Princesse Noble "Sessan"
 
-{{% kanin image="/img/20190512_Sessan.jpg" %}}
+{{% kanin image="/img/2019_Sessan.jpg" %}}
 
 Hermelin, vit rödögd hona, född 2017. För stor för utställning och avel. Kastrerad 2018.
 

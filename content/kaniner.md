@@ -87,6 +87,7 @@ Hermelin, vit rödögd hane, född 2016. Registrerad på 94,5 poäng. Kastrerad 
 Mor: Äppelblommans Mella
 
 Far: Obelix (hermelin fuchs, vit rödögd)
+{{% /kanin %}}
 
 #### Äppelblommans Tom Put "Putte":
 
@@ -98,6 +99,7 @@ Mor: Äppelblommans Diwa
 
 Far: Äppelblommans "Beauty of Bath"
 {{% /kanin %}}
+
 ---
 
 ### Liten Rex - våra "gårdskaniner"

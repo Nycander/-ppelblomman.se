@@ -10,9 +10,9 @@ menu:
 
 ### Aktuellt just nu:
 
-Vi har inga kaniner till salu under våren 2019. Vi vill i stället rekommendera "Kaninhjälpen" eller "Smådjurschansen" för er som söker sällskapskaniner. Där finns många fina kaniner som söker nya för-evigt-hem. Länkar till dem finns under fliken "länkar".
+Vi har inga kaniner till salu just nu. Vi vill i stället rekommendera "Smådjurschansen" för er som söker sällskapskaniner. Där finns många fina kaniner som söker nya för-evigt-hem. Länk finns under fliken "länkar".
 
-Nya kullar kommer eventuellt under hösten 2019.
+Nya kullar kommer eventuellt i februari-mars 2020.
 
 
 ### Generellt

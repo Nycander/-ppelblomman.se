@@ -8,6 +8,13 @@ menu:
 
 ## Kullar 2019
 
+#### Coxie & Hubbe
+
+{{% kanin image="/img/2019-08_Coxie-Hubbe-kullen.jpg" %}}
+
+Den 21 augusti födde Coxie tre ungar i färgen White svart, en hane och två honor. En av honorna blir kvar hos oss och har fått namnet Trulsa.
+
+
 #### Coxie & Toko
 
 {{% kanin image="/img/2019-02_Coxie-Toko-kullen.jpg" %}}

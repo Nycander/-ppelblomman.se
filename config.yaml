@@ -1,5 +1,5 @@
 
-baseurl: "http://www.äppelblomman.se/"
+baseurl: "//www.äppelblomman.se/"
 languageCode: "sv-se"
 title: "Äppelblommans kaningård"
 theme: "aeppelblomman"

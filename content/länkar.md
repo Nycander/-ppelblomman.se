@@ -14,4 +14,4 @@ menu:
 * [Sveriges Kaninvälfärdsförening](http://www.skvf.se/)
 * [Kaninhotell i Järfälla](https://lantzskaninhotell.weebly.com/?fbclid=IwAR2vXw8XoteutWbEhClAuHUGxdFyZklN9-9MQ52yFnCV7TqDBnh4guByJQ0)
 * [Smådjurschansen](http://www.smadjurschansen.se/)
-* [Kaninhjälpen](http://www.kaninhjalpen.se/)
+ 

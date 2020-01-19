@@ -6,6 +6,12 @@ menu:
     weight: 5
 ---
 
+## Kullar 2020
+
+Swayzie väntar ungar med Hubbe ca den 10 februari. Hon är förstföderska, så vi håller tummarna att allt går bra!
+Coxie väntar ungar med Toko ca den 11 februari.
+
+
 ## Kullar 2019
 
 #### Coxie & Hubbe

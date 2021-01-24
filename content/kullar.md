@@ -6,10 +6,16 @@ menu:
     weight: 5
 ---
 
+## Kullar 2021
+
+Trulsa är förhoppningsvis dräktig och väntas föda i slutet av februari.
+
+
 ## Kullar 2020
 
-Swayzie väntar ungar med Hubbe ca den 10 februari. Hon är förstföderska, så vi håller tummarna att allt går bra!
-Coxie väntar ungar med Toko ca den 11 februari.
+Coxie och Toko fick 6 st ungar den 10 februari.
+
+Trulsa och Toko fick 3 st ungar i augusti.
 
 
 ## Kullar 2019

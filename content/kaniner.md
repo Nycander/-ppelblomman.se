@@ -35,7 +35,7 @@ Far: Charlie
 {{% /kanin %}}
 
 
-#### Äppelblommans Ton Put "Putte":  
+#### Äppelblommans Tom Put "Putte":  
 
 {{% kanin image="/img/2019_Putte_.jpg" %}}
 

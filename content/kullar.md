@@ -8,7 +8,10 @@ menu:
 
 ## Kullar 2021
 
-Trulsa är förhoppningsvis dräktig och väntas föda i slutet av februari.
+Trulsa och Toko fick 7 st ungar den 22 februari.
+Sex st i färgen White svart och en chinchillafärgad.
+
+{{% kanin image="/img/2021_Trulsas-unge.jpg" %}}
 
 
 ## Kullar 2020

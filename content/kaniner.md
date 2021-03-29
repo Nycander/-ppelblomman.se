@@ -13,7 +13,7 @@ menu:
 
 #### Äppelblommans Trulsa
 
-{{% kanin image="/img/20191102_Trulsa.jpg" %}}
+{{% kanin image="/img/2021_Trulsa.jpg" %}}
 
 Hermelin, White svart hona, född 2019
 

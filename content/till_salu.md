@@ -10,9 +10,11 @@ menu:
 
 ### Aktuellt just nu:
 
-Vi har inga kaniner till salu just nu. Vi vill i stället rekommendera "Smådjurschansen" för er som söker sällskapskaniner. Där finns många fina kaniner som söker nya för-evigt-hem. Länk finns under fliken "länkar".
+Nu finns ungar att tinga! Trulsas kull föddes den 22 februari och är redo att flytta i mitten av april. Det finns två hanar och fem honor i kullen.
 
-Nya kullar kommer eventuellt i februari-mars 2020.
+{{% kanin image="/img/2021_Trulsas-unge.jpg" %}}
+
+Vi rekommenderar även "Smådjurschansen" för er som söker sällskapskaniner om vi inte har något passande just nu. Där finns många fina kaniner som söker nya för-evigt-hem. Länk finns under fliken "länkar".
 
 
 ### Generellt

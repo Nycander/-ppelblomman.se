@@ -1,0 +1,18 @@
+table {
+	border-collapse: separate;
+	border-spacing: 5px 0px;
+	margin-bottom: 1em;
+}
+
+table thead th {
+	border: 1px outset #fff;
+	background: #eee;
+}
+
+table td, table th {
+	padding: 5px 10px;
+	border-bottom: 1px solid #eee;
+}
+
+table tr {
+}
